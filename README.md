@@ -168,7 +168,6 @@ Réponse :
 - ✅ Services injectables pour la logique métier
 - ✅ Gestion d'erreurs standardisée avec exceptions HTTP
 - ✅ Documentation automatique avec Swagger
-- ✅ Tests unitaires complets
 - ✅ Code TypeScript strictement typé
 - ✅ Validation des données côté serveur
 - ✅ Structure RESTful cohérente
